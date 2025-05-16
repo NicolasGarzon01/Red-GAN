@@ -57,7 +57,7 @@ El objetivo del proyecto es entrenar una red generativa adversaria profunda (DCG
 | Vector ruido     | 100       |
 | Tamaño imagen    | 64x64     |
 | Batch size       | 128       |
-| Epochs           | 50        |
+| Epochs           | 100       |
 | Learning Rate    | 0.0002    |
 | Optimizador      | Adam (β1 = 0.5) |
 
